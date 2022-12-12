@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "jsdom": "^20.0.3",
-    "treefun2": "^2.0.5"
+    "treefun2": "^2.0.6"
   },
   "scripts": {
     "start": "node src/hello.js"
